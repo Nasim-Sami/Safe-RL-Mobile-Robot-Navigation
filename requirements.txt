@@ -1,0 +1,13 @@
+# Deep RL & Scientific Computing
+torch>=2.0.0
+numpy>=1.23.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# RL Environments
+gymnasium>=0.29.0
+
+# ROS 2 & Gazebo Integration (Optional for headless sim/inference)
+pyyaml>=6.0
+tqdm>=4.65.0
